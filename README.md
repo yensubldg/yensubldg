@@ -15,11 +15,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<style>
-    .p-2{
-        padding: 1.25rem;
-    }
-</style>
 <div align="left p-2">
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img
