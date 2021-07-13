@@ -18,7 +18,7 @@
  <p><a href="https://teddysince2021.club/">TeddyClub </a><span>(Build some thing)</span></p>
 <p><a href="https://dichvuchamsoc.com/">Dich Vu Cham Soc </a><span>(Fix to templates)</span></p>
 <p><a href="https://neonsignpro.com/">Neon Sign Pro</a><span>(I'm a team member in project)</span></p>
-<p><a href="https://vietphoandgrill.com/"Việt Phở and Grill</a><span>(Only me to complete)</span></p>
+<p><a href="https://vietphoandgrill.com/">Việt Phở and Grill</a><span>(Only me to complete)</span></p>
 <p><a href="http://quickbill.ml/">Restaurant food Shop </a><span>(Fix some wrong)</span></p>
 
 <h3 align="left">Connect with me:</h3>
