@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Frameworks, courses, etc**
 
-- 💬 Ask me about **Wordpress, Laravel**
-
 - 📫 How to reach me **thang11a5tp@gmail.com**
 
 - ⚡ Fun fact **I think I'm funny**
