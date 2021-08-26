@@ -31,8 +31,12 @@
 <a href="https://fb.com/windev.winstudio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="windev.winstudio" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## Framework
+<p><a href="https://laravel.com/">Laravel</a></p>
+<p><a href="https://vuejs.org/">Vue.js</a></p>
+<p><a href="https://tailwindcss.com/">Tailwindcss</a></p>
+<p><a href="https://getbootstrap.com/">Bootstrap</a></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yensubldg&show_icons=true&locale=en&layout=compact" alt="yensubldg" /></p>
+## CMS
+<p><a href="https://win-ws.com/">Wordpress</a></p>
 
