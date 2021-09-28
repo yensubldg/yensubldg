@@ -8,21 +8,15 @@
 - 📫 How to reach me **thang11a5tp@gmail.com**
 
 - ⚡ Fun fact **I think I'm funny**
-## My Demo
-<p><a href="https://restaurant-cafe.win-ws.com/">Restaurant Cafe</a></p>
-<p><a href="https://stylista-fashion.win-ws.com/">Stylista Fashion</a></p>
-<p><a href="https://win-blog.win-ws.com/">Personal Blog</a></p>
 
 ## My Product
 <p><a href="https://win-ws.com/">Win Studio </a> <span>My Project to learn Vue, Laravel, etc</span></p>
 <p><a href="https://sohonailsandspaelpaso.com/">Soho Nails and Spa </a><span>(Only me to complete)</span></p>
 <p><a href="https://hanoixuavietnam.com/">Ha Noi Xua </a><span>(Only me to complete)</span></p>
  <p><a href="https://isoschooling.com/">ISO Schooling </a><span>(Fix some error)</span></p>
- <p><a href="https://teddysince2021.club/">TeddyClub </a><span>(Build some thing)</span></p>
 <p><a href="https://dichvuchamsoc.com/">Dich Vu Cham Soc </a><span>(Fix to templates)</span></p>
 <p><a href="https://neonsignpro.com/">Neon Sign Pro </a><span>(I'm a team member in project)</span></p>
 <p><a href="https://vietphoandgrill.com/">Việt Phở and Grill </a><span>(Only me to complete)</span></p>
-<p><a href="http://quickbill.ml/">Restaurant food Shop </a><span>(Fix some wrong)</span></p>
 <p><a href="https://deedeenailspa.com/">DEE DEE Nails and Spa </a><span>(Fix some wrong)</span></p>
 <p><a href="https://cocuirestaurant.com/">CoCui Restaurant </a><span>(Only me to complete)</span></p>
 <p><a href="https://venicenailsandspahoover.com/">Vernice Nail & Spa</a><span>(Only me to complete)</span></p>
@@ -30,13 +24,4 @@
 <p align="left">
 <a href="https://fb.com/windev.winstudio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="windev.winstudio" height="30" width="40" /></a>
 </p>
-
-## Framework
-<p><a href="https://laravel.com/">Laravel</a></p>
-<p><a href="https://vuejs.org/">Vue.js</a></p>
-<p><a href="https://tailwindcss.com/">Tailwindcss</a></p>
-<p><a href="https://getbootstrap.com/">Bootstrap</a></p>
-
-## CMS
-<p><a href="https://win-ws.com/">Wordpress</a></p>
 
