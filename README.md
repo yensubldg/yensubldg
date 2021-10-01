@@ -20,7 +20,7 @@
 <p><a href="https://cocuirestaurant.com/">CoCui Restaurant </a><span>(Only me to complete)</span></p>
 <p><a href="https://venicenailsandspahoover.com/">Vernice Nail & Spa</a><span>(Only me to complete)</span></p>
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+
 ![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=yensubldg&show_icons=true&theme=radical)
-</p>
+
 
