@@ -23,6 +23,7 @@
 
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=yensubldg&show_icons=true&theme=radical" width="430" height="195"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yensubldg&layout=compact&theme=radical" width="430" height="195"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yensubldg&layout=compact&theme=radical" width="430"/>
 </p>
+
 ![My's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yensubldg&theme=tokyonight)
