@@ -22,5 +22,6 @@
 <h3 align="left">Connect with me:</h3>
 
 ![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=yensubldg&show_icons=true&theme=radical)
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yensubldg&layout=compact&theme=radical" height="195"/>
+
+![My's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yensubldg&theme=tokyonight)
