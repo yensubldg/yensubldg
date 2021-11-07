@@ -27,5 +27,5 @@
 ### My Top Languages Card
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yensubldg&layout=compact&theme=radical)
 
-### Subcribe DigitalOcean (Free 100$ to 2 month usage)
+### Subcribe DigitalOcean (Free 100$ to 2 month usage) - Click banner
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%202.svg)](https://www.digitalocean.com/?refcode=904565deca24&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
