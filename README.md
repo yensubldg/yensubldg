@@ -4,12 +4,7 @@
  </style>
  A passionate frontend developer from Viet Nam
 </h3>
-<p class="custom">
-<style>
- body { font: 400 1em/1.5 "Neuton"; background: #090d00; color: rgba(255,255,255,.25); text-align: center; margin: 0 }
-
-p.custom {
-	text-transform: uppercase;
+<p class="custom" style="text-transform: uppercase;
 	letter-spacing: .5em;
 	display: inline-block;
 	border: 4px double rgba(255,255,255,.25);
@@ -19,11 +14,9 @@ p.custom {
 	top: 18%;
 	left: 50%;
 	width: 40em;
-	margin: 0 0 0 -20em;
-}
-p.custom span {
-
-  	font: 700 4em/1 "Oswald", sans-serif;
+	margin: 0 0 0 -20em;">
+  Spice up your type with CSS
+  <span style="font: 700 4em/1 "Oswald", sans-serif;
   	letter-spacing: 0;
   	padding: .25em 0 .325em;
 	  display: block;
@@ -44,18 +37,7 @@ p.custom span {
 /* Activate hardware acceleration for smoother animations */
 
 	  -webkit-transform: translate3d(0,0,0);
-	  -webkit-backface-visibility: hidden;
-
-  }
-/* Animate Background Image */
-
-@-webkit-keyframes aitf {
-	0% { background-position: 0% 50%; }
-	100% { background-position: 100% 50%; }
-}
- </style>
-  Spice up your type with CSS
-  <span>
+	  -webkit-backface-visibility: hidden;">
     Animated text fill
   </span>
   &mdash; no JavaScript required &mdash;
