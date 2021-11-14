@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thang</h1>
-<h3 align="center" class="animateText">
- A passionate frontend developer from Viet Nam
-</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&color=%23E1FFD5&size=25&width=600&lines=Trying+to+be+a+Front-end+Developer;Chat+me+facebook.com%2Fwindev.winstudio)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yensubldg&label=Profile%20views&color=0e75b6&style=flat" alt="yensubldg" /> </p>
 
