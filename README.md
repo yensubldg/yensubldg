@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Thang</h1>
 
-<p align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&color=%23E1FFD5&size=25&width=600&lines=Trying+to+be+a+Front-end+Developer;Chat+me+facebook.com%2Fwindev.winstudio)](https://git.io/typing-svg)
-  
-</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yensubldg&label=Profile%20views&color=0e75b6&style=flat" alt="yensubldg" /> </p>
 
 - 🌱 I’m currently learning **Frameworks, courses, etc**
