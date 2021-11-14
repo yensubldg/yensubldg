@@ -10,17 +10,17 @@
 - ⚡ Fun fact **I think I'm funny**
 
 ## My Product
-<p><a href="https://sohonailsandspaelpaso.com/">Soho Nails and Spa </a><span>(Only me to complete)</span></p>
-<p><a href="https://hanoixuavietnam.com/">Ha Noi Xua </a><span>(Only me to complete)</span></p>
- <p><a href="https://isoschooling.com/">ISO Schooling </a><span>(Fix some error)</span></p>
-<p><a href="https://dichvuchamsoc.com/">Dich Vu Cham Soc </a><span>(Fix to templates)</span></p>
-<p><a href="https://neonsignpro.com/">Neon Sign Pro </a><span>(I'm a team member in project)</span></p>
-<p><a href="https://vietphoandgrill.com/">Việt Phở and Grill </a><span>(Only me to complete)</span></p>
-<p><a href="https://deedeenailspa.com/">DEE DEE Nails and Spa </a><span>(Fix some wrong)</span></p>
-<p><a href="https://cocuirestaurant.com/">CoCui Restaurant </a><span>(Only me to complete)</span></p>
-<p><a href="https://venicenailsandspahoover.com/">Vernice Nail & Spa</a><span>(Only me to complete)</span></p>
-<p><a href="https://siberianhealthvietnam.vn/">Siberian Health Viet Nam</a><span>(I'm a team member in project)</span></p>
-<p><a href="https://mmvenusaestheticspa.com/">MM Venus Aesthetic Spa</a><span>(Only me to complete)</span></p>
+<p><a href="https://sohonailsandspaelpaso.com/">Soho Nails and Spa </a></p>
+<p><a href="https://hanoixuavietnam.com/">Ha Noi Xua </a></p>
+ <p><a href="https://isoschooling.com/">ISO Schooling </a></p>
+<p><a href="https://dichvuchamsoc.com/">Dich Vu Cham Soc </a></p>
+<p><a href="https://neonsignpro.com/">Neon Sign Pro </a></p>
+<p><a href="https://vietphoandgrill.com/">Việt Phở and Grill </a>></p>
+<p><a href="https://deedeenailspa.com/">DEE DEE Nails and Spa </a>></p>
+<p><a href="https://cocuirestaurant.com/">CoCui Restaurant </a></p>
+<p><a href="https://venicenailsandspahoover.com/">Vernice Nail & Spa</a></p>
+<p><a href="https://siberianhealthvietnam.vn/">Siberian Health Viet Nam</a></p>
+<p><a href="https://mmvenusaestheticspa.com/">MM Venus Aesthetic Spa</a></p>
 
 ### My Stats Card
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yensubldg&show_icons=true&theme=radical)
