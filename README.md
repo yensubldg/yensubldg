@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Frameworks, courses, etc**
 
-- 📫 How to reach me **thang11a5tp@gmail.com**
+- 📫 How to reach me **windev.thang@gmail.com**
 
 - ⚡ Fun fact **I think I'm funny**
 
