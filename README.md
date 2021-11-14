@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Thang</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Trying+to+be+a+Front-end+Developer;Chat+me+facebook.com%2Fwindev.winstudio)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&color=%23E1FFD5&size=25&width=600&lines=Trying+to+be+a+Front-end+Developer;Chat+me+facebook.com%2Fwindev.winstudio)](https://git.io/typing-svg)
 
