@@ -30,10 +30,10 @@
 <p><a href="https://dichvuvesi.vn/">Dịch vụ vệ sĩ chuyên nghiệp, uy tín, chất lượng và trách nhiệm</a></p>
 
 ### My Stats Card
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yensubldg&show_icons=true&theme=radical)
+![Yensubldg's GitHub stats](https://github-readme-stats.vercel.app/api?username=yensubldg&show_icons=true&theme=radical)
 
 ### My Top Languages Card
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yensubldg&layout=compact&theme=radical)
+![Yensubldg's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yensubldg&layout=compact&theme=radical)
 
 ### Subcribe DigitalOcean (Free 100$ up to 2 month usage) - Click banner
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%202.svg)](https://www.digitalocean.com/?refcode=904565deca24&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
