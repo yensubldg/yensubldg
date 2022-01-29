@@ -3,7 +3,7 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&color=%23E1FFD5&size=25&width=600&lines=Trying+to+be+a+Front-end+Developer;Chat+me+facebook.com%2Fyensubldg)](https://git.io/typing-svg)
 
-<p align="left"> ![](https://komarev.com/ghpvc/?username=yensubldg&label=Visitors+Count&color=brightgreen) </p>
+![](https://komarev.com/ghpvc/?username=yensubldg&label=Visitors+Count&color=brightgreen)
 
 - 🌱 I’m currently learning **Frameworks, courses, etc**
 
