@@ -43,7 +43,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=yensubldg&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yensubldg&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yensubldg&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+![](https://activity-graph.herokuapp.com/graph?username=yensubldg&theme=dracula&hide_border=true)
 
 ### Subcribe DigitalOcean (Free 100$ up to 2 month usage) - Click banner
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%202.svg)](https://www.digitalocean.com/?refcode=904565deca24&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
