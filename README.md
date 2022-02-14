@@ -46,7 +46,7 @@
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yensubldg&theme=react&hide_border=false" alt="yensubldg" />
 </p>
 
-![](https://activity-graph.herokuapp.com/graph?username=yensubldg&theme=dracula&hide_border=true)
+![](https://activity-graph.herokuapp.com/graph?username=yensubldg&theme=react&hide_border=false)
 
 ### Subcribe DigitalOcean (Free 100$ up to 2 month usage) - Click banner
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%202.svg)](https://www.digitalocean.com/?refcode=904565deca24&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
