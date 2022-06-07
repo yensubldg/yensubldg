@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&color=%23E1FFD5&size=25&width=600&lines=Trying+to+be+a+Front-end+Developer;Chat+me+facebook.com%2Fyensubldg)](https://git.io/typing-svg)
 
-[![wakatime](https://wakatime.com/badge/user/@yensubldg)](https://wakatime.com/@yensubldg)
+[![wakatime](https://wakatime.com/badge/user/142b1bc6-ff5b-4ae8-a7c1-b5c1124e694c.svg)](https://wakatime.com/@142b1bc6-ff5b-4ae8-a7c1-b5c1124e694c)
 <!-- 
 ![](https://komarev.com/ghpvc/?username=yensubldg&label=Visitors+Count&color=brightgreen) -->
 
