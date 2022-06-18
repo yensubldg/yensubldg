@@ -60,7 +60,7 @@
 ![](https://activity-graph.herokuapp.com/graph?username=yensubldg&theme=dracula&hide_border=false)
 # Wakatime Stats :
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=yensubldg&layout=compact&hide=other&theme=react" alt="yensubldg's wakatime stats" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=yensubldg&layout=compact&hide=other&theme=react" alt="yensubldg's wakatime stats" />
 </p>
 
 ### Subcribe DigitalOcean (Free 100$ up to 2 month usage) - Click banner
