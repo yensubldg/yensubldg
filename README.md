@@ -52,13 +52,14 @@
 <!-- BLOG-POST-LIST:END -->
 # 📊GitHub Stats :
 <p align="center">
- <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yensubldg&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="yensubldg" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=yensubldg&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="yensubldg" /> 
+ <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yensubldg&theme=react&layout=compact&hide=vue,html,php,python,blade" alt="yensubldg" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=yensubldg&count_private=true&hide=contribs,prs&theme=react&show_icons=true" alt="yensubldg" /> 
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yensubldg&theme=react&hide_border=false" alt="yensubldg" />
 </p>
 
 ![](https://activity-graph.herokuapp.com/graph?username=yensubldg&theme=dracula&hide_border=false)
-
+# Wakatime Stats :
+[!yensubldg's wakatime stats]([https://github-readme-stats.vercel.app/api/wakatime?username=willianrod](https://github-readme-stats.vercel.app/api/wakatime?username=yensubldg&layout=compact&hide=other&theme=react))]
 ### Subcribe DigitalOcean (Free 100$ up to 2 month usage) - Click banner
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%202.svg)](https://www.digitalocean.com/?refcode=904565deca24&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 ### Certification
