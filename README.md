@@ -59,7 +59,7 @@
 
 ![](https://activity-graph.herokuapp.com/graph?username=yensubldg&theme=dracula&hide_border=false)
 # Wakatime Stats :
-[!yensubldg's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yensubldg&layout=compact&hide=other&theme=react)
+![yensubldg's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yensubldg&layout=compact&hide=other&theme=react)
 
 ### Subcribe DigitalOcean (Free 100$ up to 2 month usage) - Click banner
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%202.svg)](https://www.digitalocean.com/?refcode=904565deca24&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
