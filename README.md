@@ -52,7 +52,7 @@
 # 📊GitHub Stats :
 <p align="center">
  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yensubldg&theme=react&layout=compact&hide=vue,php,html,blade&langs_count=8&exclude_repo=CMU-SE252,Computer-Science-for-Practicing-Engineers-Software-Construction" alt="yensubldg" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=yensubldg&count_private=true&theme=jolly&show_icons=true" alt="yensubldg" /> 
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=yensubldg&count_private=true&theme=react&show_icons=true" alt="yensubldg" /> 
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yensubldg&theme=react&hide_border=false" alt="yensubldg" />
 </p>
 
