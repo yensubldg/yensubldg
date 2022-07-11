@@ -15,16 +15,11 @@
 - 👨‍💻 Donate me [Momo](https://me.momo.vn/yensubldg)
 
 ## My Product
-<p><a href="https://sohonailsandspaelpaso.com/">Soho Nails and Spa </a></p>
-<p><a href="https://hanoixuavietnam.com/">Ha Noi Xua </a></p>
- <p><a href="https://isoschooling.com/">ISO Schooling </a></p>
 <p><a href="https://dichvuchamsoc.com/">Dich Vu Cham Soc </a></p>
-<p><a href="https://neonsignpro.com/">Neon Sign Pro </a></p>
 <p><a href="https://vietphoandgrill.com/">Việt Phở and Grill </a></p>
 <p><a href="https://deedeenailspa.com/">DEE DEE Nails and Spa </a></p>
 <p><a href="https://cocuirestaurant.com/">CoCui Restaurant </a></p>
 <p><a href="https://venicenailsandspahoover.com/">Vernice Nail & Spa</a></p>
-<p><a href="https://siberianhealthvietnam.vn/">Siberian Health Viet Nam</a></p>
 <p><a href="https://mmvenusaestheticspa.com/">MM Venus Aesthetic Spa</a></p>
 <p><a href="https://www.baovepmv.com/">Công ty dịch vụ Bảo vệ và Vệ sĩ | Công ty bảo vệ chuyên nghiệp</a></p>
 <p><a href="https://congtybaovehanoi.vn/">Dịch vụ bảo vệ chuyên nghiệp: Công ty Bảo vệ tại Hà Nội PMV</a></p>
