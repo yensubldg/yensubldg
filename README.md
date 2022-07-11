@@ -12,8 +12,6 @@
 
 - ⚡ Fun fact **I think I'm funny**
 
-- 👨‍💻 Donate me [Momo](https://me.momo.vn/yensubldg)
-
 ## My Product
 <p><a href="https://dichvuchamsoc.com/">Dich Vu Cham Soc </a></p>
 <p><a href="https://vietphoandgrill.com/">Việt Phở and Grill </a></p>
