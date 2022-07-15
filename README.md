@@ -14,7 +14,6 @@
 
 ## My Product
 <p><a href="https://dichvuchamsoc.com/">Dich Vu Cham Soc </a></p>
-<p><a href="https://vietphoandgrill.com/">Việt Phở and Grill </a></p>
 <p><a href="https://deedeenailspa.com/">DEE DEE Nails and Spa </a></p>
 <p><a href="https://cocuirestaurant.com/">CoCui Restaurant </a></p>
 <p><a href="https://venicenailsandspahoover.com/">Vernice Nail & Spa</a></p>
