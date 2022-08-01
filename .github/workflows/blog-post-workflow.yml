@@ -1,9 +1,10 @@
 name: Latest blog post workflow
 on:
-  schedule: # Run workflow automatically
-    - cron: "0 * * * *" # Runs every hour, on the hour
-  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
-
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+  workflow_dispatch:
+  
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
@@ -14,4 +15,6 @@ jobs:
       - name: Pull in dev.to posts
         uses: yensubldg/blog-post-workflow@v1
         with:
+          max_post_count: "4"
+          remove_duplicates: true
           feed_list: "https://dev.to/feed/yensubldg"
