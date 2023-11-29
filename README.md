@@ -34,3 +34,7 @@
 # 📊GitHub Stats
 
 ![yensubldg](https://github-readme-streak-stats.herokuapp.com/?user=yensubldg&theme=react&hide_border=false")
+
+# Snake Game
+
+![Snake eating my contribution graph](./github-contribution-grid-snake.svg)
