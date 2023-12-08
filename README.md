@@ -80,7 +80,7 @@ Vue                      1 repo              ░░░░░░░░░░░�
 
 # 📊GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=yensubldg&theme=tokyonight&border_radius=8)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=yensubldg&theme=tokyonight&border_radius=8)
 
 # Snake Game
 
