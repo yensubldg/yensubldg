@@ -29,7 +29,7 @@
 # 📊WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C044%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C044%20hrs%2058%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -56,7 +56,9 @@ Sunday                   133 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-CSS                      10 mins             █████████████████████████   100.00 % 
+Python                   17 mins             ███████████████░░░░░░░░░░   60.62 % 
+CSS                      10 mins             ██████████░░░░░░░░░░░░░░░   38.04 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
 ```
 
 **I Mostly Code in TypeScript** 
