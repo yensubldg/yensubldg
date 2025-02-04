@@ -56,8 +56,7 @@ Sunday                   475 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               8 mins              ████████████████░░░░░░░░░   64.10 % 
-PHP                      4 mins              █████████░░░░░░░░░░░░░░░░   35.90 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
